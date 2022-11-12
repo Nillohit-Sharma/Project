@@ -1,9 +1,0 @@
-APP_BASE_URL=http://localhost:5000
-MONGO_CONNECTION_URL="mongodb+srv://nillohitsh1:Nillohit1!@cluster0.cy4kh2o.mongodb.net/sharein?retryWrites=true&w=majority"
-
-SMTP_HOST=smtp.sendgrid.net
-SMTP_PORT=587
-MAIL_USER=nillohitsh1
-MAIL_PASSWORD=Nillohit1!
-
-ALLOWED_CLIENTS=http://localhost:5000
